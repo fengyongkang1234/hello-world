@@ -24,6 +24,8 @@
 
 ![geeogle](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub 图标")
 
+在 JavaScript 中，使用 `console.log()` 打印信息。
+
 
 
 
