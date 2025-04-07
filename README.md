@@ -57,11 +57,13 @@ int a = 10;
 我想显示\*星号\*
 
 
-- [] 学习markdown
-- [] 联系写文件
-- [] 创建pull
+- [ ] 学习markdown
+- [ ] 联系写文件
+- [ ] 创建pull
 
-  
+  - [x] 学习 Markdown 基础语法
+- [ ] 练习写 README 文件
+- [ ] 创建一个 Pull Request
 
 
 
