@@ -26,13 +26,13 @@
 
 在 JavaScript 中，使用 `console.log()` 打印信息。
 
-'''c++
+```c++
 #incloude<iostream>
 int main()
 {
 int a = 10;
 }
-'''
+```
 
 
 
